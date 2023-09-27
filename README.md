@@ -22,3 +22,8 @@ Web3 address wiki
 4. There will be an open-sourced AI-aggregation of signals that will output most probable data and it's reliability score — so any project on web3 may not compromise on spam protection and/or tx history readability.
 
 # Timeline
+- Q4 2023
+-   Talking to other wallets, gathering soft commits to use protocol, tuning requirements
+-   Launching version one — fully functional, but may yet not have high adoption due to it's a first attempt
+- Q1 2024
+-   Optimising solution (more ways to upload data, better AI, bigger coverage by data providers)
